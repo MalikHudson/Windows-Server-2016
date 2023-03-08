@@ -48,7 +48,7 @@ DHCP Demo: https://youtu.be/p9UPhItUQU4
 
   
 
-Where to navigate in Active Directory when end-user is locked out of account. Unlock end-user account Demo: https://youtu.be/llE9Bb_dE8w
+Where to navigate in Active Directory when end-user is locked out of account: https://youtu.be/llE9Bb_dE8w
   
 
 Where to navigate in Active Directory when an end-user’s account has expired
