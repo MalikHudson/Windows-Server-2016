@@ -38,7 +38,6 @@ Domain Search Demo: https://youtu.be/lX9K-l1FLQk
   
 
 Below is where I created a DHCP scope, where a specified range of IP addresses are leased out to devices on the network. 
-
 DHCP Demo: https://youtu.be/p9UPhItUQU4
 
 ![](https://images.squarespace-cdn.com/content/v1/6355d195a26c4b571b338345/6674c849-fc25-45d4-a46f-2f8f92bda027/Screenshot+%2811%29.jpg?format=750w)
