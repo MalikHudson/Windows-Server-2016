@@ -33,11 +33,13 @@ environments with many users, and made finding Mickey super easy.
 
 ![](https://images.squarespace-cdn.com/content/v1/6355d195a26c4b571b338345/cdd9a7b2-4ab2-4787-abbc-466217f3a723/VirtualBox_Windows+Server+2016_31_12_2022_16_21_09.jpg?format=750w)
 
-
+Domain Search Demo: https://youtu.be/lX9K-l1FLQk
 
   
 
 Below is where I created a DHCP scope, where a specified range of IP addresses are leased out to devices on the network. 
+
+DHCP Demo: https://youtu.be/p9UPhItUQU4
 
 ![](https://images.squarespace-cdn.com/content/v1/6355d195a26c4b571b338345/6674c849-fc25-45d4-a46f-2f8f92bda027/Screenshot+%2811%29.jpg?format=750w)
 
