@@ -44,7 +44,7 @@ DHCP Demo: https://youtu.be/p9UPhItUQU4
 
   
 
-I installed two more virtual desktops onto my virtual machine. Here we have a Server manager (left), a helpdesk account (top-right), and an end-user account (bottom-right) to conduct the rest of this lab. This is to fully immerse me in an office environment. 
+(Above) I installed two more virtual desktops onto my virtual machine. Here we have a Server manager (left), a helpdesk account (top-right), and an end-user account (bottom-right) to conduct the rest of this lab. This is to fully immerse me in an office environment. 
 
   
 
